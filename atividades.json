@@ -1,0 +1,1630 @@
+{
+  "schemaVersion": 1,
+  "atualizadoEm": "2026-11-07T17:10:42.105Z",
+  "conteudo": [
+    {
+      "id": "MC1",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório 1 UNIFAP",
+      "subespecialidade": "Ginecologia",
+      "titulo": "Implanom",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "MC3",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório 2 UNIFAP",
+      "subespecialidade": "Radiologia",
+      "titulo": "Interpretação de exames na emergência",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "MC4",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório CRM",
+      "subespecialidade": "Medicina Intensiva",
+      "titulo": "Ventilação mecânica na prática",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "MC5",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório HU",
+      "subespecialidade": "Medicina de Emergência",
+      "titulo": "Reanimação cardiopulmonar (ACLS essencial)",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "MC6",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório Integrado",
+      "subespecialidade": "Anestesiologia",
+      "titulo": "Abordagem à via aérea difícil",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "MC2",
+      "tipo": "minicurso",
+      "inicio": "2027-05-27T08:00:00-03:00",
+      "fim": "2027-05-27T11:00:00-03:00",
+      "local": "Auditório Menor UNIFAP",
+      "subespecialidade": "Cardiologia",
+      "titulo": "Interpretação de ECG: do básico ao avançado",
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D1-A1",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T14:00:00-03:00",
+      "fim": "2027-05-27T14:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Clínica Médica",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-A1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:00:00-03:00",
+          "fim": "2027-05-27T14:15:00-03:00"
+        },
+        {
+          "id": "D1-A1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:15:00-03:00",
+          "fim": "2027-05-27T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T14:30:00-03:00",
+        "fim": "2027-05-27T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D1-B1",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T14:00:00-03:00",
+      "fim": "2027-05-27T14:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Cirurgia Geral",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-B1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:00:00-03:00",
+          "fim": "2027-05-27T14:15:00-03:00"
+        },
+        {
+          "id": "D1-B1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:15:00-03:00",
+          "fim": "2027-05-27T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T14:30:00-03:00",
+        "fim": "2027-05-27T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D1-A2",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T14:45:00-03:00",
+      "fim": "2027-05-27T15:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Ginecologia e Obstetrícia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-A2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:45:00-03:00",
+          "fim": "2027-05-27T15:00:00-03:00"
+        },
+        {
+          "id": "D1-A2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T15:00:00-03:00",
+          "fim": "2027-05-27T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T15:15:00-03:00",
+        "fim": "2027-05-27T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D1-B2",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T14:45:00-03:00",
+      "fim": "2027-05-27T15:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Pediatria",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-B2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T14:45:00-03:00",
+          "fim": "2027-05-27T15:00:00-03:00"
+        },
+        {
+          "id": "D1-B2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T15:00:00-03:00",
+          "fim": "2027-05-27T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T15:15:00-03:00",
+        "fim": "2027-05-27T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D1-A3",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T16:00:00-03:00",
+      "fim": "2027-05-27T16:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Cardiologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-A3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:00:00-03:00",
+          "fim": "2027-05-27T16:15:00-03:00"
+        },
+        {
+          "id": "D1-A3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:15:00-03:00",
+          "fim": "2027-05-27T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T16:30:00-03:00",
+        "fim": "2027-05-27T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D1-B3",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T16:00:00-03:00",
+      "fim": "2027-05-27T16:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Ortopedia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-B3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:00:00-03:00",
+          "fim": "2027-05-27T16:15:00-03:00"
+        },
+        {
+          "id": "D1-B3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:15:00-03:00",
+          "fim": "2027-05-27T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T16:30:00-03:00",
+        "fim": "2027-05-27T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D1-A4",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T16:45:00-03:00",
+      "fim": "2027-05-27T17:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Pneumologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-A4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:45:00-03:00",
+          "fim": "2027-05-27T17:00:00-03:00"
+        },
+        {
+          "id": "D1-A4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:00:00-03:00",
+          "fim": "2027-05-27T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T17:15:00-03:00",
+        "fim": "2027-05-27T17:30:00-03:00"
+      }
+    },
+    {
+      "id": "D1-B4",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T16:45:00-03:00",
+      "fim": "2027-05-27T17:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Neurocirurgia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-B4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T16:45:00-03:00",
+          "fim": "2027-05-27T17:00:00-03:00"
+        },
+        {
+          "id": "D1-B4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:00:00-03:00",
+          "fim": "2027-05-27T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T17:15:00-03:00",
+        "fim": "2027-05-27T17:30:00-03:00"
+      }
+    },
+    {
+      "id": "D1-A5",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T17:30:00-03:00",
+      "fim": "2027-05-27T18:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Endocrinologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-A5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:30:00-03:00",
+          "fim": "2027-05-27T17:45:00-03:00"
+        },
+        {
+          "id": "D1-A5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:45:00-03:00",
+          "fim": "2027-05-27T18:00:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T18:00:00-03:00",
+        "fim": "2027-05-27T18:45:00-03:00"
+      }
+    },
+    {
+      "id": "D1-B5",
+      "tipo": "mesa",
+      "inicio": "2027-05-27T17:30:00-03:00",
+      "fim": "2027-05-27T18:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Cirurgia Plástica",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D1-B5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:30:00-03:00",
+          "fim": "2027-05-27T17:45:00-03:00"
+        },
+        {
+          "id": "D1-B5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-27T17:45:00-03:00",
+          "fim": "2027-05-27T18:00:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-27T18:00:00-03:00",
+        "fim": "2027-05-27T18:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-CAFE-A",
+      "tipo": "cafe",
+      "inicio": "2027-05-28T08:00:00-03:00",
+      "fim": "2027-05-28T08:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Cardiologia",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D2-CAFE-B",
+      "tipo": "cafe",
+      "inicio": "2027-05-28T08:00:00-03:00",
+      "fim": "2027-05-28T08:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Infectologia",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D2-A1",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T09:00:00-03:00",
+      "fim": "2027-05-28T09:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Neurologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:00:00-03:00",
+          "fim": "2027-05-28T09:15:00-03:00"
+        },
+        {
+          "id": "D2-A1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:15:00-03:00",
+          "fim": "2027-05-28T09:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T09:30:00-03:00",
+        "fim": "2027-05-28T09:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B1",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T09:00:00-03:00",
+      "fim": "2027-05-28T09:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Gastroenterologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:00:00-03:00",
+          "fim": "2027-05-28T09:15:00-03:00"
+        },
+        {
+          "id": "D2-B1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:15:00-03:00",
+          "fim": "2027-05-28T09:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T09:30:00-03:00",
+        "fim": "2027-05-28T09:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A2",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T09:45:00-03:00",
+      "fim": "2027-05-28T10:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Dermatologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:45:00-03:00",
+          "fim": "2027-05-28T10:00:00-03:00"
+        },
+        {
+          "id": "D2-A2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T10:00:00-03:00",
+          "fim": "2027-05-28T10:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T10:15:00-03:00",
+        "fim": "2027-05-28T10:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B2",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T09:45:00-03:00",
+      "fim": "2027-05-28T10:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Urologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T09:45:00-03:00",
+          "fim": "2027-05-28T10:00:00-03:00"
+        },
+        {
+          "id": "D2-B2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T10:00:00-03:00",
+          "fim": "2027-05-28T10:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T10:15:00-03:00",
+        "fim": "2027-05-28T10:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A3",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T11:00:00-03:00",
+      "fim": "2027-05-28T11:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Psiquiatria",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:00:00-03:00",
+          "fim": "2027-05-28T11:15:00-03:00"
+        },
+        {
+          "id": "D2-A3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:15:00-03:00",
+          "fim": "2027-05-28T11:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T11:30:00-03:00",
+        "fim": "2027-05-28T11:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B3",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T11:00:00-03:00",
+      "fim": "2027-05-28T11:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Otorrinolaringologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:00:00-03:00",
+          "fim": "2027-05-28T11:15:00-03:00"
+        },
+        {
+          "id": "D2-B3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:15:00-03:00",
+          "fim": "2027-05-28T11:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T11:30:00-03:00",
+        "fim": "2027-05-28T11:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A4",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T11:45:00-03:00",
+      "fim": "2027-05-28T12:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Nefrologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:45:00-03:00",
+          "fim": "2027-05-28T12:00:00-03:00"
+        },
+        {
+          "id": "D2-A4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T12:00:00-03:00",
+          "fim": "2027-05-28T12:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T12:15:00-03:00",
+        "fim": "2027-05-28T12:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B4",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T11:45:00-03:00",
+      "fim": "2027-05-28T12:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Medicina de Emergência",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T11:45:00-03:00",
+          "fim": "2027-05-28T12:00:00-03:00"
+        },
+        {
+          "id": "D2-B4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T12:00:00-03:00",
+          "fim": "2027-05-28T12:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T12:15:00-03:00",
+        "fim": "2027-05-28T12:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-SS-A",
+      "tipo": "simposio",
+      "inicio": "2027-05-28T12:30:00-03:00",
+      "fim": "2027-05-28T13:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Simpósio Satélite / Lunch Meeting",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D2-SS-B",
+      "tipo": "simposio",
+      "inicio": "2027-05-28T12:30:00-03:00",
+      "fim": "2027-05-28T13:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Simpósio Satélite / Lunch Meeting",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D2-A5",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T14:00:00-03:00",
+      "fim": "2027-05-28T14:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Oftalmologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:00:00-03:00",
+          "fim": "2027-05-28T14:15:00-03:00"
+        },
+        {
+          "id": "D2-A5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:15:00-03:00",
+          "fim": "2027-05-28T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T14:30:00-03:00",
+        "fim": "2027-05-28T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B5",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T14:00:00-03:00",
+      "fim": "2027-05-28T14:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Anestesiologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:00:00-03:00",
+          "fim": "2027-05-28T14:15:00-03:00"
+        },
+        {
+          "id": "D2-B5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:15:00-03:00",
+          "fim": "2027-05-28T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T14:30:00-03:00",
+        "fim": "2027-05-28T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A6",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T14:45:00-03:00",
+      "fim": "2027-05-28T15:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Reumatologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A6-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:45:00-03:00",
+          "fim": "2027-05-28T15:00:00-03:00"
+        },
+        {
+          "id": "D2-A6-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T15:00:00-03:00",
+          "fim": "2027-05-28T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T15:15:00-03:00",
+        "fim": "2027-05-28T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B6",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T14:45:00-03:00",
+      "fim": "2027-05-28T15:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Hematologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B6-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T14:45:00-03:00",
+          "fim": "2027-05-28T15:00:00-03:00"
+        },
+        {
+          "id": "D2-B6-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T15:00:00-03:00",
+          "fim": "2027-05-28T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T15:15:00-03:00",
+        "fim": "2027-05-28T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A7",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T16:00:00-03:00",
+      "fim": "2027-05-28T16:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Oncologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A7-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:00:00-03:00",
+          "fim": "2027-05-28T16:15:00-03:00"
+        },
+        {
+          "id": "D2-A7-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:15:00-03:00",
+          "fim": "2027-05-28T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T16:30:00-03:00",
+        "fim": "2027-05-28T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B7",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T16:00:00-03:00",
+      "fim": "2027-05-28T16:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Medicina Intensiva",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B7-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:00:00-03:00",
+          "fim": "2027-05-28T16:15:00-03:00"
+        },
+        {
+          "id": "D2-B7-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:15:00-03:00",
+          "fim": "2027-05-28T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T16:30:00-03:00",
+        "fim": "2027-05-28T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D2-A8",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T16:45:00-03:00",
+      "fim": "2027-05-28T17:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Geriatria",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-A8-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:45:00-03:00",
+          "fim": "2027-05-28T17:00:00-03:00"
+        },
+        {
+          "id": "D2-A8-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T17:00:00-03:00",
+          "fim": "2027-05-28T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T17:15:00-03:00",
+        "fim": "2027-05-28T17:30:00-03:00"
+      }
+    },
+    {
+      "id": "D2-B8",
+      "tipo": "mesa",
+      "inicio": "2027-05-28T16:45:00-03:00",
+      "fim": "2027-05-28T17:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Cirurgia Vascular",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D2-B8-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T16:45:00-03:00",
+          "fim": "2027-05-28T17:00:00-03:00"
+        },
+        {
+          "id": "D2-B8-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-28T17:00:00-03:00",
+          "fim": "2027-05-28T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-28T17:15:00-03:00",
+        "fim": "2027-05-28T17:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-CAFE-A",
+      "tipo": "cafe",
+      "inicio": "2027-05-29T08:00:00-03:00",
+      "fim": "2027-05-29T08:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Endocrinologia",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D3-CAFE-B",
+      "tipo": "cafe",
+      "inicio": "2027-05-29T08:00:00-03:00",
+      "fim": "2027-05-29T08:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Radiologia",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D3-A1",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T09:00:00-03:00",
+      "fim": "2027-05-29T09:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Clínica Médica",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:00:00-03:00",
+          "fim": "2027-05-29T09:15:00-03:00"
+        },
+        {
+          "id": "D3-A1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:15:00-03:00",
+          "fim": "2027-05-29T09:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T09:30:00-03:00",
+        "fim": "2027-05-29T09:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B1",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T09:00:00-03:00",
+      "fim": "2027-05-29T09:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Ginecologia e Obstetrícia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B1-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:00:00-03:00",
+          "fim": "2027-05-29T09:15:00-03:00"
+        },
+        {
+          "id": "D3-B1-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:15:00-03:00",
+          "fim": "2027-05-29T09:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T09:30:00-03:00",
+        "fim": "2027-05-29T09:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A2",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T09:45:00-03:00",
+      "fim": "2027-05-29T10:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Pediatria",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:45:00-03:00",
+          "fim": "2027-05-29T10:00:00-03:00"
+        },
+        {
+          "id": "D3-A2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T10:00:00-03:00",
+          "fim": "2027-05-29T10:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T10:15:00-03:00",
+        "fim": "2027-05-29T10:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B2",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T09:45:00-03:00",
+      "fim": "2027-05-29T10:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Cirurgia Geral",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B2-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T09:45:00-03:00",
+          "fim": "2027-05-29T10:00:00-03:00"
+        },
+        {
+          "id": "D3-B2-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T10:00:00-03:00",
+          "fim": "2027-05-29T10:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T10:15:00-03:00",
+        "fim": "2027-05-29T10:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A3",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T11:00:00-03:00",
+      "fim": "2027-05-29T11:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Infectologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:00:00-03:00",
+          "fim": "2027-05-29T11:15:00-03:00"
+        },
+        {
+          "id": "D3-A3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:15:00-03:00",
+          "fim": "2027-05-29T11:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T11:30:00-03:00",
+        "fim": "2027-05-29T11:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B3",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T11:00:00-03:00",
+      "fim": "2027-05-29T11:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Ortopedia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B3-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:00:00-03:00",
+          "fim": "2027-05-29T11:15:00-03:00"
+        },
+        {
+          "id": "D3-B3-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:15:00-03:00",
+          "fim": "2027-05-29T11:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T11:30:00-03:00",
+        "fim": "2027-05-29T11:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A4",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T11:45:00-03:00",
+      "fim": "2027-05-29T12:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Cardiologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:45:00-03:00",
+          "fim": "2027-05-29T12:00:00-03:00"
+        },
+        {
+          "id": "D3-A4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T12:00:00-03:00",
+          "fim": "2027-05-29T12:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T12:15:00-03:00",
+        "fim": "2027-05-29T12:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B4",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T11:45:00-03:00",
+      "fim": "2027-05-29T12:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Neurocirurgia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B4-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T11:45:00-03:00",
+          "fim": "2027-05-29T12:00:00-03:00"
+        },
+        {
+          "id": "D3-B4-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T12:00:00-03:00",
+          "fim": "2027-05-29T12:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T12:15:00-03:00",
+        "fim": "2027-05-29T12:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-SS-A",
+      "tipo": "simposio",
+      "inicio": "2027-05-29T12:30:00-03:00",
+      "fim": "2027-05-29T13:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Simpósio Satélite / Lunch Meeting",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D3-SS-B",
+      "tipo": "simposio",
+      "inicio": "2027-05-29T12:30:00-03:00",
+      "fim": "2027-05-29T13:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Simpósio Satélite / Lunch Meeting",
+      "titulo": null,
+      "situacao": "programada",
+      "responsavelId": null,
+      "patrocinadorId": null,
+      "vagas": null,
+      "acesso": null
+    },
+    {
+      "id": "D3-A5",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T14:00:00-03:00",
+      "fim": "2027-05-29T14:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Pneumologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:00:00-03:00",
+          "fim": "2027-05-29T14:15:00-03:00"
+        },
+        {
+          "id": "D3-A5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:15:00-03:00",
+          "fim": "2027-05-29T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T14:30:00-03:00",
+        "fim": "2027-05-29T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B5",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T14:00:00-03:00",
+      "fim": "2027-05-29T14:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Neurologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B5-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:00:00-03:00",
+          "fim": "2027-05-29T14:15:00-03:00"
+        },
+        {
+          "id": "D3-B5-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:15:00-03:00",
+          "fim": "2027-05-29T14:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T14:30:00-03:00",
+        "fim": "2027-05-29T14:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A6",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T14:45:00-03:00",
+      "fim": "2027-05-29T15:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Gastroenterologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A6-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:45:00-03:00",
+          "fim": "2027-05-29T15:00:00-03:00"
+        },
+        {
+          "id": "D3-A6-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T15:00:00-03:00",
+          "fim": "2027-05-29T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T15:15:00-03:00",
+        "fim": "2027-05-29T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B6",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T14:45:00-03:00",
+      "fim": "2027-05-29T15:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Cirurgia Plástica",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B6-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T14:45:00-03:00",
+          "fim": "2027-05-29T15:00:00-03:00"
+        },
+        {
+          "id": "D3-B6-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T15:00:00-03:00",
+          "fim": "2027-05-29T15:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T15:15:00-03:00",
+        "fim": "2027-05-29T15:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A7",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T16:00:00-03:00",
+      "fim": "2027-05-29T16:45:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Endocrinologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A7-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:00:00-03:00",
+          "fim": "2027-05-29T16:15:00-03:00"
+        },
+        {
+          "id": "D3-A7-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:15:00-03:00",
+          "fim": "2027-05-29T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T16:30:00-03:00",
+        "fim": "2027-05-29T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B7",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T16:00:00-03:00",
+      "fim": "2027-05-29T16:45:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Urologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B7-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:00:00-03:00",
+          "fim": "2027-05-29T16:15:00-03:00"
+        },
+        {
+          "id": "D3-B7-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:15:00-03:00",
+          "fim": "2027-05-29T16:30:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T16:30:00-03:00",
+        "fim": "2027-05-29T16:45:00-03:00"
+      }
+    },
+    {
+      "id": "D3-A8",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T16:45:00-03:00",
+      "fim": "2027-05-29T17:30:00-03:00",
+      "local": "Auditório 1",
+      "subespecialidade": "Medicina da Família",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-A8-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:45:00-03:00",
+          "fim": "2027-05-29T17:00:00-03:00"
+        },
+        {
+          "id": "D3-A8-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T17:00:00-03:00",
+          "fim": "2027-05-29T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T17:15:00-03:00",
+        "fim": "2027-05-29T17:30:00-03:00"
+      }
+    },
+    {
+      "id": "D3-B8",
+      "tipo": "mesa",
+      "inicio": "2027-05-29T16:45:00-03:00",
+      "fim": "2027-05-29T17:30:00-03:00",
+      "local": "Auditório 2",
+      "subespecialidade": "Dermatologia",
+      "titulo": null,
+      "situacao": "programada",
+      "presidente": null,
+      "secretario": null,
+      "palestras": [
+        {
+          "id": "D3-B8-P1",
+          "ordem": 1,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T16:45:00-03:00",
+          "fim": "2027-05-29T17:00:00-03:00"
+        },
+        {
+          "id": "D3-B8-P2",
+          "ordem": 2,
+          "titulo": null,
+          "pessoaId": null,
+          "inicio": "2027-05-29T17:00:00-03:00",
+          "fim": "2027-05-29T17:15:00-03:00"
+        }
+      ],
+      "discussao": {
+        "inicio": "2027-05-29T17:15:00-03:00",
+        "fim": "2027-05-29T17:30:00-03:00"
+      }
+    }
+  ]
+}

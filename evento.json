@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "atualizadoEm": "2026-11-07T17:10:42.105Z",
+  "conteudo": {
+    "nome": "IV Congresso Médico Amapaense",
+    "inicio": "2027-05-27",
+    "fim": "2027-05-29",
+    "fuso": "America/Belem",
+    "links": {
+      "inscricao": null,
+      "minhaInscricao": null,
+      "enviarTrabalho": null,
+      "site": null
+    },
+    "contato": {
+      "whatsapp": null,
+      "email": null
+    }
+  }
+}

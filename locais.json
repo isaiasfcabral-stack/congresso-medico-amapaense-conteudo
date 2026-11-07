@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "atualizadoEm": "2026-11-07T17:10:42.105Z",
+  "conteudo": [
+    {
+      "nome": "Auditório 1",
+      "instituicao": "Local principal (a definir)",
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório 2",
+      "instituicao": "Local principal (a definir)",
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório 1 UNIFAP",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório 2 UNIFAP",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório Menor UNIFAP",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório CRM",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório HU",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    },
+    {
+      "nome": "Auditório Integrado",
+      "instituicao": null,
+      "endereco": null,
+      "mapa": null,
+      "comoChegar": null,
+      "acessibilidade": null
+    }
+  ]
+}

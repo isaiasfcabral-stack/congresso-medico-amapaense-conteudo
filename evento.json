@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": "2026-11-08T16:00:25.394Z",
+  "atualizadoEm": "2026-11-08T17:33:28.372Z",
   "conteudo": {
     "nome": "4º Congresso Médico Amapaense",
     "inicio": "2027-05-27",
@@ -9,14 +9,15 @@
     "links": {
       "inscricao": null,
       "minhaInscricao": null,
-      "enviarTrabalho": null,
-      "site": null
+      "enviarTrabalho": "https://congresso-medico-amapaense-2027.peacefulbrass.chatgpt.site/trabalhos",
+      "site": "https://congresso-medico-amapaense-2027.peacefulbrass.chatgpt.site"
     },
     "contato": {
       "whatsapp": null,
       "email": null
     },
     "local": "Sebrae, Macapá-AP",
-    "programacaoPreliminar": true
+    "programacaoPreliminar": true,
+    "prazoTrabalhos": "2027-03-30T23:59:00-03:00"
   }
 }

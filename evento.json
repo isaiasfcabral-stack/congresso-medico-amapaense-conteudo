@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "atualizadoEm": "2026-11-07T17:10:42.105Z",
+  "atualizadoEm": "2026-11-08T16:00:25.394Z",
   "conteudo": {
-    "nome": "IV Congresso Médico Amapaense",
+    "nome": "4º Congresso Médico Amapaense",
     "inicio": "2027-05-27",
     "fim": "2027-05-29",
     "fuso": "America/Belem",
@@ -15,6 +15,8 @@
     "contato": {
       "whatsapp": null,
       "email": null
-    }
+    },
+    "local": "Sebrae, Macapá-AP",
+    "programacaoPreliminar": true
   }
 }
